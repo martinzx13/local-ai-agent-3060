@@ -261,7 +261,7 @@ local-ai-agent-3060/
 
 ## Follow me
 
-Found this useful? Follow me on LinkedIn for more local AI projects.
+Found this useful? [Follow me on LinkedIn](https://www.linkedin.com/in/juan-pablo-martinez-aldana/) for more local AI projects.
 
 If this helped, star this repo.
 
